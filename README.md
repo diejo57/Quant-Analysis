@@ -71,7 +71,7 @@ This result demonstrates the model's ability to correctly predict the direction 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/Quant-Analysis.git](https://github.com/your-username/Quant-Analysis.git)
+    git clone [https://github.com/diejo57Quant-Analysis.git](https://github.com/diejo57/Quant-Analysis.git)
     ```
 2.  **Navigate to the project directory:**
     ```bash
